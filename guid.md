@@ -4,7 +4,7 @@
 
 下载插件程序：https://www.tampermonkey.net/
 
-![image-20220423143633335](/Users/sanshao/Library/Application Support/typora-user-images/image-20220423143633335.png)
+![image-20220423143633335](https://github.com/sanshao/doudian-script/blob/main/img/image-20220423143633335.png?raw=true)
 
 国内浏览器像UC、360之类的插件管理及安装方法会有差异，可以参考知乎中https://zhuanlan.zhihu.com/p/128453110 看看
 
@@ -16,7 +16,7 @@ chrome的扩展市场国内网络无法访问，可在百度搜索下载。https
 
 
 
-![image-20220423144730792](/Users/sanshao/Library/Application Support/typora-user-images/image-20220423144730792.png)
+![image-20220423144730792](https://github.com/sanshao/doudian-script/blob/main/img/image-20220423144730792.png?raw=true)
 
 
 
